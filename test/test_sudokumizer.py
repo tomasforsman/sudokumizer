@@ -1,19 +1,11 @@
 """
 Tests for `sudokumizer` module.
 """
-import pytest
-from sudokumizer import sudokumizer
 
 
 class TestSudokumizer(object):
 
-    @classmethod
-    def setup_class(cls):
-        pass
-
     def test_something(self):
+        assert 2 == 2
         pass
 
-    @classmethod
-    def teardown_class(cls):
-        pass
