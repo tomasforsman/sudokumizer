@@ -12,6 +12,8 @@ Returns a Sudoku board sollution as a numpy 2d array. Use as a starting point fo
 
 This is my Hello World project when starting to learn Python.
 
+Full documentation on: https://sudokumizer.readthedocs.io/en/latest/
+
 TODO::
     * Return other formats than numpy 2d array.
         * JSON
