@@ -2,8 +2,14 @@
 
 History
 -------
+
+0.0.5 (2019-08-20)
+++++++++++++++++++++++++++++
+
+* Changed setup language to Python 3.7
+
 0.0.3 and 0.0.4 (2019-08-20)
-++++++++++++++++++
+++++++++++++++++++++++++++++
 
 * Update to readme and documentation
 
