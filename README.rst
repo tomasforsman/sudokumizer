@@ -8,11 +8,6 @@ Sudokumizer
 .. image:: https://travis-ci.org/tomasforsman/sudokumizer.png?branch=master
     :target: https://travis-ci.org/tomasforsman/sudokumizer
 
-The board() method returns a Sudoku board sollution. Use as a starting point for your own Sudoku creations.
+Returns a Sudoku board sollution as a numpy 2d array. Use as a starting point for your own Sudoku creations.
 
-
-Features
---------
-
-* TODO
-
+This is my Hello World project when starting to learn Python.

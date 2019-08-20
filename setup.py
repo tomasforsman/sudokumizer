@@ -23,7 +23,7 @@ history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 setup(
     name='sudokumizer',
-    version='0.0.1',
+    version='0.0.3',
     description='The board() method returns a Sudoku board sollution. Use as a starting point for your own Sudoku creations.',
     long_description=readme + '\n\n' + doclink + '\n\n' + history,
     author='Tomas Forsman',
