@@ -23,8 +23,8 @@ history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 setup(
     name='sudokumizer',
-    version='0.0.5',
-    description='The board() method returns a Sudoku board sollution. Use as a starting point for your own Sudoku creations.',
+    version='0.0.6',
+    description='Returns a Sudoku board sollution as a numpy 2d array. Use as a starting point for your own Sudoku creations.',
     long_description=readme + '\n\n' + doclink + '\n\n' + history,
     author='Tomas Forsman',
     author_email='tomas@forsman.dev',

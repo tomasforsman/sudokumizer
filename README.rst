@@ -11,3 +11,15 @@ Sudokumizer
 Returns a Sudoku board sollution as a numpy 2d array. Use as a starting point for your own Sudoku creations.
 
 This is my Hello World project when starting to learn Python.
+
+TODO::
+    * Return other formats than numpy 2d array.
+        * JSON
+        * 2D Array
+        * Object
+        * Database
+    * Write tests (yes, this should have been done earlier)
+    * Ensure compability
+    * Create a microservice using Django and Google App Engine
+        * REST
+        * GraphQL
