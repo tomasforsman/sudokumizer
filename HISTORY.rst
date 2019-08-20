@@ -2,7 +2,7 @@
 
 History
 -------
-0.0.3 (2019-08-20)
+0.0.3 and 0.0.4 (2019-08-20)
 ++++++++++++++++++
 
 * Update to readme and documentation

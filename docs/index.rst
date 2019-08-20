@@ -5,6 +5,8 @@
 
 .. include:: ../README.rst
 
+.. include:: ../TODO.rst
+
 Contents:
 =========
 
