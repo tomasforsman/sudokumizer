@@ -8,6 +8,7 @@ Sudokumizer
 .. image:: https://travis-ci.org/tomasforsman/sudokumizer.png?branch=master
     :target: https://travis-ci.org/tomasforsman/sudokumizer
 
+
 Returns a Sudoku board sollution as a numpy 2d array. Use as a starting point for your own Sudoku creations.
 ::
 
